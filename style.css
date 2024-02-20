@@ -1,0 +1,43 @@
+*{
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.searchbox{
+    background-color: rgb(225, 225, 225);
+    margin-bottom: 20px;
+    width: 200px;
+    height: 30px;
+    font-size: 25px;
+}
+
+.city{
+    font-size: 25px;
+    color: black;
+    font-weight: normal;
+}
+
+.date{
+    color: rgb(16, 6, 6);
+    font-weight: lighter;
+}
+
+.temp{
+    color: black;
+    font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.weather{
+    color: black;
+    font-weight: bold;
+    font-size: large;
+
+}
+
+.hi-low{
+    color: black;
+    margin-top: 10px;
+
+}

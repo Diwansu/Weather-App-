@@ -8,18 +8,22 @@
     margin-bottom: 20px;
     width: 200px;
     height: 30px;
+    border-radius: 20px;
     font-size: 25px;
 }
 
 .city{
-    font-size: 25px;
+    font-size: 52px;
     color: black;
     font-weight: normal;
+    margin-top: 10vh;
 }
 
 .date{
     color: rgb(16, 6, 6);
     font-weight: lighter;
+    font-size: 20px;
+    margin: 15vh;
 }
 
 .temp{
@@ -39,5 +43,5 @@
 .hi-low{
     color: black;
     margin-top: 10px;
-
+    font-size: 20px;
 }
